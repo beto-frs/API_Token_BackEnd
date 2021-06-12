@@ -55,48 +55,63 @@ Microsoft.AspNetCore.Authentication.JwtBearer
 ```
 System.Collection
 ```
-
+<br>
+<br>
 
 
 # Screenshots
 
 
+<br>
+<br>
+<hr>
 
 **Index**
 
-<img src="D:\PROJETOS\VISUAL STUDIO\projeto\img\index.png" style="zoom:75%;" />
+<img src="img\index.png" style="zoom:75%;" />
 
 
 
 
+<br>
+<br>
+<hr>
 
 **Adquirindo a Token de acesso, logando com login e senha**
 
-<img src="D:\PROJETOS\VISUAL STUDIO\projeto\img\logando.png" style="zoom:75%;" />
+<img src="img\logando.png" style="zoom:75%;" />
 
 
 
-
+<br>
+<br>
+<hr>
 
 **Localizando o Token de acesso**
 
-<img src="D:\PROJETOS\VISUAL STUDIO\projeto\img\token.png" style="zoom:75%;" />
+<img src="img\token.png" style="zoom:75%;" />
 
 
 
 
+<br>
+<br>
+<hr>
 
 **Inserindo a Token para autenticação na API**
 
-<img src="D:\PROJETOS\VISUAL STUDIO\projeto\img\Autorizando_Token.png" style="zoom:75%;" />
+<img src="img\Autorizando_Token.png" style="zoom:75%;" />
 
 
 
 
+<br>
+<br>
+<hr>
 
 **Autorizado!!!**
 
-<img src="D:\PROJETOS\VISUAL STUDIO\projeto\img\Autorizado.png" style="zoom:75%;" />
+<img src="img\Autorizado.png" style="zoom:75%;" />
 
 
 
