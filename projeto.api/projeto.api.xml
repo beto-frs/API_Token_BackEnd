@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>projeto.api</name>
+    </assembly>
+    <members>
+        <member name="M:projeto.api.Controllers.CursoController.Post(projeto.api.Models.Cursos.CursoViewModelInput)">
+            <summary>
+            Este serviço permite cadastrar curso para o usuário autenticado.
+            </summary>
+            <param name="cursoViewModelInput"></param>
+            <returns></returns>
+        </member>
+        <member name="M:projeto.api.Controllers.CursoController.Get">
+            <summary>
+            Este serviço permite obter todos os cursos ativos do usuário.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:projeto.api.Controllers.UsuarioController.Logar(projeto.api.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este serviço permite autenticar um usuário cadastrado e ativo.
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
